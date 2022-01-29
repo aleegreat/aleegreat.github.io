@@ -1,6 +1,6 @@
 ---
 title: "LXC搭建开发环境"
-categories: [it, pve, lxc, python]
+categories: [it, pve]
 tags: [pve, lxc, mount, python, vnc,jupyter,远程桌面]
 
 ---
