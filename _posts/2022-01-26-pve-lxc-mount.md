@@ -1,7 +1,7 @@
 ---
 title: "在基于proxmox上的LXC中挂载远程目录"
 last_modified_at: 2022-01-27
-categories: [pve, lxc] 
+categories: [it, pve] 
 tags: [pve, lxc, mount] 
 ---
 
