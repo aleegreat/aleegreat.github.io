@@ -18,9 +18,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 为美好世界献上祝福                          # the main title
+title: 集思                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 为美好世界献上祝福   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
