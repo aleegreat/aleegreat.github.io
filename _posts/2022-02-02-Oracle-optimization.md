@@ -39,6 +39,7 @@ tags: [Oracle,SQl,优化]
 在Oracle 11g（好象是，需确认）之后，支持动态分区表，其语法如下：
 关键词：`numtoyminterval` 、`NUMTODSINTERVAL` 
 示例：
+
 ```SQL
 --按年创建分区表
 create table test_part
@@ -51,6 +52,7 @@ PARTITION BY RANGE (CREATE_TIME) INTERVAL (numtoyminterval(1, 'year'))
 (partition part_t01 values less than(to_date('2018-11-01', 'yyyy-mm-dd')));
 
 ```
+
 ```sql
 --按月创建分区表
 create table test_part
