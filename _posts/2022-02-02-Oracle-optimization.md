@@ -5,6 +5,11 @@ categories: [IT, Database]
 tags: [Oracle,SQl,优化]
 ---
 
+- [思路](#思路)
+- [索引](#索引)
+- [分区表](#分区表)
+- [DBlink的优化](#dblink的优化)
+- [统计信息收集](#统计信息收集)
 
 # 思路 
 
