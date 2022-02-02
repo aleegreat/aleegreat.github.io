@@ -41,7 +41,7 @@ tags: [Oracle,SQl,优化]
 关键词： `numtoyminterval` 、`NUMTODSINTERVAL` 
 示例：
 
-```SQL
+```sql
 --按年创建分区表
 create table test_part
 (
