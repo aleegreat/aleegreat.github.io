@@ -37,7 +37,8 @@ tags: [Oracle,SQl,优化]
 # 分区表
 
 在Oracle 11g（好象是，需确认）之后，支持动态分区表，其语法如下：
-关键词：`numtoyminterval` 、`NUMTODSINTERVAL` 
+
+关键词： `numtoyminterval` 、`NUMTODSINTERVAL` 
 示例：
 
 ```SQL
