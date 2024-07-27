@@ -2,7 +2,7 @@
 title: "Archlinux安装xrdp"
 last_modified_at: 2022-02-02
 categories: [IT, Linux]
-tags: [lxc, linux, 远程桌面]
+tags: [LXC, Linux, 远程桌面]
 ---
 
 - [基础软件安装](#基础软件安装)
