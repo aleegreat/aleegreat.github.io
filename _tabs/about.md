@@ -1,8 +1,20 @@
 ---
-# the default layout is 'page'
+title: About
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+> 爱音乐、爱动漫、爱这片土地上的人 
+> 
+> 愿世界美好和平，人人温良恭俭 
+> 
+> 尊重自然，爱护环境，与动植物和谐相处 
+> 
+> 反伪科学，反一切不信它则诅咒诋毁的宗教，尊重劝人为善，对信徒高要求的宗教 
+> 
+> 如果世界上多一个好的人，少一个坏人，世界会更美好。 
+> 
+
+
+> 反简单事情复杂化，反互联网黑话/微创新，反互联网“高新尖技术”，反一切不说人话 
+> 
