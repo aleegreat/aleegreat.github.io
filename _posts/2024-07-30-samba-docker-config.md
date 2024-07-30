@@ -1,8 +1,17 @@
 ---
-title: "shiyong Samba "
+title: "使用Docker安装Samba共享服务 "
 categories: [IT, PVE]
 tags: [PVE, Docker, Samba]
 ---
+<!-- TOC -->
+
+- [Docker安装Samba](#docker%E5%AE%89%E8%A3%85samba)
+- [Samba参数配置](#samba%E5%8F%82%E6%95%B0%E9%85%8D%E7%BD%AE)
+- [参考资料](#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99)
+
+<!-- /TOC -->
+<!-- /TOC -->
+
 
 # Docker安装Samba
 samba的docker镜像目前使用较广泛的是[dperson/samba](https://hub.docker.com/r/dperson/samba)的镜像,但是该镜像已经很长时间未更新。因此我选用了[dockur/samba](https://github.com/dockur/samba)。
@@ -102,11 +111,10 @@ The only reasonable values for this parameter are 0 (no async I/O) and 1 (always
 
 
 # 参考资料
-https://github.com/dockur/samba
-https://www.cnblogs.com/tcicy/p/8465071.html
-https://www.cnblogs.com/longchang/p/10734193.html
-https://www.cnblogs.com/kevingrace/p/8662088.html
-https://wiki.amahi.org/index.php/Make_Samba_Go_Faster
-https://www.samba.org/samba/docs/current/man-html/smb.conf.5.html
-
+[https://github.com/dockur/samba](https://github.com/dockur/samba)
+[https://www.cnblogs.com/tcicy/p/8465071.html](https://www.cnblogs.com/tcicy/p/8465071.html)
+[https://www.cnblogs.com/longchang/p/10734193.html](https://www.cnblogs.com/longchang/p/10734193.html)
+[https://www.cnblogs.com/kevingrace/p/8662088.html](https://www.cnblogs.com/kevingrace/p/8662088.html)
+[https://wiki.amahi.org/index.php/Make_Samba_Go_Faster](https://wiki.amahi.org/index.php/Make_Samba_Go_Faster)
+[https://www.samba.org/samba/docs/current/man-html/smb.conf.5.html](https://www.samba.org/samba/docs/current/man-html/smb.conf.5.html)
 
